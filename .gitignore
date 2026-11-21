@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+*.xls
+*.xlsx
+!estoque_teste_pulmao.xlsx
