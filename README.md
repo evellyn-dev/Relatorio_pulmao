@@ -16,14 +16,6 @@ pip install -r requirements.txt
 python -m streamlit run main.py
 ```
 
-Para atualizar: baixe o ZIP novamente (ou use `git pull`, se tiver clonado).
-
-## Hospedar grátis (Streamlit Community Cloud)
-
-1. Entre em https://share.streamlit.io com a conta do GitHub.
-2. **Create app** → escolha este repositório, branch `main`, arquivo principal `main.py`.
-3. **Deploy**. Cada `git push` atualiza o app automaticamente.
-
 ## Arquivos
 
 | Arquivo | Função |
